@@ -29,11 +29,11 @@ void main() {
 
   // Q2
   print('Q2: Named Parameters');
-  createStudent(name: 'John Doe', age: 18);
+  createStudent(name: 'Ami Paradis', age: 18);
   print('');
 
   // Q3
   print('Q3: Optional Parameters');
-  createTeacher('Mr. Smith', 'Mathematics');
-  createTeacher('Ms. Johnson');
+  createTeacher('Ami Paradis', 'Mathematics');
+  createTeacher('ISHIMWE');
 }
